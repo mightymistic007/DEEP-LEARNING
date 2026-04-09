@@ -39,11 +39,11 @@ NeuroStyle
 ## ⚡ Getting Started
 
 * Requirements
-**Ensure you have a GPU environment and the following libraries installed:
-**pip install tensorflow pillow matplotlib numpy
+* Ensure you have a GPU environment and the following libraries installed:
+* pip install tensorflow pillow matplotlib numpy
 
 * Configuration
-**Update the content_image_path and style_image_path in DL_PROJECT.ipynb to point to your desired files in /ART_STYLES/.
+* Update the content_image_path and style_image_path in DL_PROJECT.ipynb to point to your desired files in /ART_STYLES/.
 
 * Run
-**Execute the notebook cells. The system will iteratively print the loss and render your stylized output.
+* Execute the notebook cells. The system will iteratively print the loss and render your stylized output.
